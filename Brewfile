@@ -31,12 +31,17 @@ cask "omnigraffle"
 cask "tunnelbear"
 cask "secure-pipes"
 cask "the-unarchiver"	
-cask "lastpass-universal"
-cask "github-desktop"
 cask "kindle"
 cask "postman"
+cask "spotify"
 
-#App Store via mas
+#Cask tasks with notes:
+#cask "github-desktop" 	# Seems to not work anymore?
+cask "lastpass"		# Seems to install, but where is it? 
+
+
+#App Store via mas -> Note: Needs sign-in first.
+
 mas "Amphetamine", id: 937984704
 mas "Bear", id: 1091189122
 mas "GarageBand", id: 682658836
