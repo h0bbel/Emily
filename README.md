@@ -1,5 +1,5 @@
 # Codename Emily
-## Automated Personal macOS Config / Setip
+### Automated Personal macOS Config / Setup
 >Emily tries but misunderstands, ah ooh  
 >She's often inclined to borrow somebody's dreams till tomorrow  
 >  
