@@ -1,4 +1,5 @@
 # Codename Emily
+## Automated Personal macOS Config / Setip
 >Emily tries but misunderstands, ah ooh  
 >She's often inclined to borrow somebody's dreams till tomorrow  
 >  
@@ -12,8 +13,8 @@
 >Gazing through trees in sorrow hardly a sound till tomorrow  
 > -Syd Barrett
 
-## Start of automated Personal macOS setup
-
-### TODO
+## TODO
 * Script for symlinking dotfiles
 * Optimizing the Brewfile
+* ???
+* Profit
