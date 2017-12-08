@@ -2,6 +2,7 @@ tap "homebrew/completions"
 tap "homebrew/core"
 tap "homebrew/bundle"
 tap "caskroom/cask"
+
 brew "bash-completion"
 brew "gettext"
 brew "libffi"
@@ -12,14 +13,30 @@ brew "git"
 brew "nettle"
 brew "gnutls"
 brew "grc"
-brew "imagemagick"
-brew "librsvg"
 brew "mas"
 brew "nmap"
-brew "node"
-brew "qemu"
+
+#Cask
 cask "appcleaner"
 cask "postman"
+cask "iterm2"
+cask "slack"
+cask "dropbox"
+cask "spectacle"
+cask "box-sync"
+cask "google-chrome"
+cask "vmware-fusion"
+cask "filezilla"
+cask "omnigraffle"
+cask "tunnelbear"
+cask "secure-pipes"
+cask "the-unarchiver"	
+cask "lastpass-universal"
+cask "github-desktop"
+cask "kindle"
+cask "postman"
+
+#App Store via mas
 mas "Amphetamine", id: 937984704
 mas "Bear", id: 1091189122
 mas "GarageBand", id: 682658836
